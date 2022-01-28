@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#2C8BDE</color>
+    <color name="colorPrimaryVariant">#136AB6</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorTextIcons">#FFFFFF</color>
+    <color name="colorBackground">#FAFAFA</color>
+    <color name="colorHintText">#BDBDBD</color>
+    
+    <color name="colorMeetingInvitationStart">#2C8BDE</color>
+    <color name="colorMeetingInvitationEnd">#0C2C7D</color>
+<!--    2854C5-->
+    <color name="acceptGreen">#2AAF24</color>
+    <color name="rejectRed">#D62F2F</color>
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/abhij/AndroidStudioProjects/VMeet/app/src/main/res/drawable-v24/background_reject_invitation.xml" value="0.1284722222222222" />
+        <entry key="..\:/Users/abhij/AndroidStudioProjects/VMeet/app/src/main/res/drawable/background_accept_invitation.xml" value="0.1284722222222222" />
+        <entry key="..\:/Users/abhij/AndroidStudioProjects/VMeet/app/src/main/res/drawable/background_meeting_invitation.xml" value="0.1284722222222222" />
+        <entry key="..\:/Users/abhij/AndroidStudioProjects/VMeet/app/src/main/res/drawable/background_meeting_invitation_user_icon.xml" value="0.1284722222222222" />
+        <entry key="..\:/Users/abhij/AndroidStudioProjects/VMeet/app/src/main/res/drawable/background_reject_invitation.xml" value="0.16486486486486487" />
+        <entry key="..\:/Users/abhij/AndroidStudioProjects/VMeet/app/src/main/res/drawable/background_user_icon.xml" value="0.1284722222222222" />
+        <entry key="..\:/Users/abhij/AndroidStudioProjects/VMeet/app/src/main/res/layout/activity_incoming_invitation.xml" value="0.1516891891891892" />
+        <entry key="..\:/Users/abhij/AndroidStudioProjects/VMeet/app/src/main/res/layout/activity_main.xml" value="0.215625" />
+        <entry key="..\:/Users/abhij/AndroidStudioProjects/VMeet/app/src/main/res/layout/activity_outgoing_invitation.xml" value="0.1516891891891892" />
+        <entry key="..\:/Users/abhij/AndroidStudioProjects/VMeet/app/src/main/res/layout/activity_sign_in.xml" value="0.1516891891891892" />
+        <entry key="..\:/Users/abhij/AndroidStudioProjects/VMeet/app/src/main/res/layout/activity_sign_up.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/abhij/AndroidStudioProjects/VMeet/app/src/main/res/layout/activity_sing_in.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/abhij/AndroidStudioProjects/VMeet/app/src/main/res/layout/item_container_user.xml" value="0.1516891891891892" />
+        <entry key="..\:/Users/abhij/AndroidStudioProjects/VMeet/app/src/main/res/mipmap-anydpi-v26/vm_launcher.xml" value="0.125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

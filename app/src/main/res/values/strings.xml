@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">VMeet</string>
+    <string name="welcome_to">Welcome To VMeet</string>
+    <string name="vmeet"> Video Meeting | Conference App</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="name_example_com">name@example.com</string>
+    <string name="password">Password</string>
+    <string name="dots">• • • • • • • •</string>
+    <string name="don_t_have_an_account">Don\'t Have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="back">back</string>
+    <string name="please_fill_in_the_details_to_set_up_your_account">Fill in the details to set up your account</string>
+    <string name="first_name">First Name</string>
+    <string name="nino">your first name</string>
+    <string name="last_name">Last Name</string>
+    <string name="nakano">your last name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="incoming_invitation">Incoming Invitation</string>
+    <string name="sending_meeting_invitation">Sending Meeting Invitation</string>
+</resources>
